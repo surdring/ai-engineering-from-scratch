@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "185d6a3867b346bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "a30be9f6045c6afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f7e088a0a583745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-setup-and-tooling/11_linux-for-ai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11_linux-for-ai"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcfebb738cdd7621",
+    "type": "split",
+    "children": [
+      {
+        "id": "e88ae0eaeed3cd32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eee0382848604db4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7ffdb8e78ea85689",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b4a6fbaedc4b97a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "568361e112ef4ae4",
+    "type": "split",
+    "children": [
+      {
+        "id": "fad084f3f5d0a3c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c8a6869f7e085d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-setup-and-tooling/11_linux-for-ai.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "11_linux-for-ai 的反向链接列表"
+            }
+          },
+          {
+            "id": "9536c34266fbe6f7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-setup-and-tooling/11_linux-for-ai.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "11_linux-for-ai 的出链列表"
+            }
+          },
+          {
+            "id": "ac0b0d132c84cc32",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "c7c3796429a8cb18",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "46e3c6bcc4c0f0ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-setup-and-tooling/11_linux-for-ai.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "11_linux-for-ai 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "6f7e088a0a583745",
+  "lastOpenFiles": [
+    "01-math-foundations/01_linear-algebra-intuition.md",
+    "01-math-foundations/02_vectors-matrices-operations.md",
+    "01-math-foundations/03_matrix-transformations.md",
+    "04-computer-vision/21_keypoint-pose.md",
+    "17-infrastructure-and-production/22_load-testing-llm-apis.md"
+  ]
+}
