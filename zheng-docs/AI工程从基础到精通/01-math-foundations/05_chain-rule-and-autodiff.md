@@ -168,7 +168,7 @@ class Value:
         for v in reversed(topo):
             v._backward()
 ```
-
+完整实现见 `phases/01-math-foundations/05-chain-rule-and-autodiff/code/autodiff.py`。
 ## 练习
 
 1. 使用 autograd 引擎计算 y = x^2 + 3x + 1 在 x=2 时的导数

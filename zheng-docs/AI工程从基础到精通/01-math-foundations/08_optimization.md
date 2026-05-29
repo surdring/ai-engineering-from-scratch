@@ -97,7 +97,7 @@ w = w - lr * v
 
 ## 构建它
 
-完整实现见 `code/optimization.py`，包含梯度下降、带动量的 SGD 和 Adam，以及学习率调度。
+完整实现见 `phases/01-math-foundations/08-optimization/code/optimizers.py`，包含梯度下降、带动量的 SGD 和 Adam，以及学习率调度。
 
 ## 关键术语
 

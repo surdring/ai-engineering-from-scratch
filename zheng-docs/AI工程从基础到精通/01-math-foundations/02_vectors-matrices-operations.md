@@ -186,7 +186,7 @@ def forward(X, W, b):
     return relu(W.matmul(X).add_col_vector(b))
 ```
 
-完整实现见 `code/matrix_from_scratch.py`。
+完整实现见 `phases/01-math-foundations/02-vectors-matrices-operations/code/matrices.py`。
 
 ## 练习
 

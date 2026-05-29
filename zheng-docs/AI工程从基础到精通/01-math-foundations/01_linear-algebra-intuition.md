@@ -259,7 +259,7 @@ def rank(matrix):
 运行向量操作演示：
 
 ```bash
-python phases/01-math-foundations/01-linear-algebra-intuition/code/vector_demo.py
+python phases/01-math-foundations/01-linear-algebra-intuition/code/vectors.py
 ```
 
 这会练习向量运算、投影和 Gram-Schmidt 正交归一化。

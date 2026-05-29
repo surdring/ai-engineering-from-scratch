@@ -144,7 +144,7 @@ lambda 是特征值（拉伸的倍数）
 
 ## 构建它
 
-完整实现见 `code/matrix_transformations.py`。这构建了旋转、缩放、剪切和反射矩阵，并演示了复合和特征值计算。
+完整实现见 `phases/01-math-foundations/03-matrix-transformations/code/transformations.py`。这构建了旋转、缩放、剪切和反射矩阵，并演示了复合和特征值计算。
 
 ## 练习
 

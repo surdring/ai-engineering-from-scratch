@@ -175,7 +175,7 @@ Hessian 在优化中用于：
 
 ## 构建它
 
-完整实现见 `code/calculus_ml.py`。这实现了数值导数、解析导数和梯度下降优化。
+完整实现见 `phases/01-math-foundations/04-calculus-for-ml/code/derivatives.py`。这实现了数值导数、解析导数和梯度下降优化。
 
 ## 练习
 

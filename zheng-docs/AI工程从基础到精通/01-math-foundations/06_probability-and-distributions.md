@@ -113,7 +113,7 @@ P(X = x) = 对所有 y 求和 P(X = x, Y = y)
 
 ## 构建它
 
-完整实现见 `code/probability_distributions.py`，包含伯努利、分类、泊松、均匀和正态分布的实现，以及 softmax 和交叉熵。
+完整实现见 `phases/01-math-foundations/06-probability-and-distributions/code/probability.py`，包含伯努利、分类、泊松、均匀和正态分布的实现，以及 softmax 和交叉熵。
 
 ## 关键术语
 
