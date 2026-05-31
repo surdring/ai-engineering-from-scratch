@@ -89,6 +89,8 @@ updated: 2026-05-26
 
 如果你测试 20 个假设，纯随机会得到约一个 p < 0.05 的结果。Bonferroni 校正：将 alpha 除以测试数量。这对模型比较很重要——如果你比较 10 个超参数组合，显著性阈值是 0.005 而非 0.05。
 
+完整实现：`phases/01-math-foundations/15-statistics-for-ml/code/statistics.py`
+
 ## 关键术语
 
 | 术语 | 人们常说的 | 实际含义 |

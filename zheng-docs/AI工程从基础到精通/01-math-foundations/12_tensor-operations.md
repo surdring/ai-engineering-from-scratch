@@ -80,7 +80,7 @@ PyTorch 使用 NCHW（通道优先），TensorFlow 默认 NHWC（通道后置）
 
 ## 构建它
 
-代码位于 `code/tensors.py`。关键实现：
+代码位于 `phases/01-math-foundations/12-tensor-operations/code/tensors.py`。关键实现：
 
 ### 步骤 1：存储和步长
 

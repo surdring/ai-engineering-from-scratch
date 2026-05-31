@@ -306,7 +306,7 @@ class PipelineFromScratch:
 
 本课产出：
 - `outputs/prompt-ml-pipeline.md` -- 构建和调试 ML 流水线的技能
-- `code/pipeline.py` -- 从零实现到 sklearn 的完整流水线
+- `phases/02-ml-fundamentals/13-ml-pipelines/code/pipeline.py` -- 从零实现到 sklearn 的完整流水线
 
 ## 练习
 

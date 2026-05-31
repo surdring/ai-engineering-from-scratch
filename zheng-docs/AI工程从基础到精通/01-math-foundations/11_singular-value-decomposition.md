@@ -92,7 +92,7 @@ SVD 提供计算伪逆的直接途径：A^+ = V * Sigma^+ * U^T，其中 Sigma^+
 
 ## 构建它
 
-完整实现见 `code/svd_from_scratch.py`，包含幂迭代、截断 SVD 和伪逆。
+完整实现见 `phases/01-math-foundations/11-singular-value-decomposition/code/svd.py`，包含幂迭代、截断 SVD 和伪逆。
 
 ## 关键术语
 

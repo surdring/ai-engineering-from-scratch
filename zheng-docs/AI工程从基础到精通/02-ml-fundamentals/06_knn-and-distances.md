@@ -379,6 +379,10 @@ distances, indices = index.search(query_vectors, k=5)
 | 近似最近邻 | 比精确搜索快得多，找到近似最近点的算法（HNSW、LSH、IVF） |
 | Voronoi 图 | 空间划分，每个区域包含所有比其他训练点更近于一个训练点的点。K=1 KNN 产生 Voronoi 边界 |
 
+完整实现：`phases/02-ml-fundamentals/06-knn-and-distances/code/knn.py`
+
+
+
 ## 延伸阅读
 
 - [Cover & Hart: Nearest Neighbor Pattern Classification (1967)](https://ieeexplore.ieee.org/document/1053964) - 基础 KNN 论文，证明错误率最多是贝叶斯最优的两倍

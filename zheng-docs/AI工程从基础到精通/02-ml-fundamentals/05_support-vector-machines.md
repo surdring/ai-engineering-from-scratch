@@ -356,6 +356,8 @@ clf = Pipeline([
 
 5. 实现 SVR（epsilon 不敏感损失）。拟合 y = sin(x) + noise。画出预测周围的 epsilon 管道，突出显示支持向量（管道外的点）。
 
+完整实现：`phases/02-ml-fundamentals/05-support-vector-machines/code/svm.py`
+
 ## 关键术语
 
 | 术语 | 实际含义 |

@@ -83,7 +83,7 @@ cos_sim(a, b) = (a·b) / (||a||_2 * ||b||_2)。衡量角度，忽略大小。从
 
 ## 构建它
 
-完整实现见 `code/norms_and_distances.py`，包含所有距离函数及不同度量下最近邻的比较。
+完整实现见 `phases/01-math-foundations/14-norms-and-distances/code/distances.py`，包含所有距离函数及不同度量下最近邻的比较。
 
 ## 关键术语
 

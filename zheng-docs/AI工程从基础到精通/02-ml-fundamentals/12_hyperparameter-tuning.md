@@ -493,6 +493,10 @@ print(f"最佳 CV MSE: {-search.best_score_:.4f}")
 
 **不对迭代模型使用早停。** 对于梯度提升和神经网络，将 n_estimators 或轮次设为高值并使用早停。这严格优于将迭代次数作为超参数调优。
 
+完整实现：`phases/02-ml-fundamentals/12-hyperparameter-tuning/code/tuning.py`
+
+
+
 ## 练习
 
 1. 以相同总预算（如 50 次评估）运行网格搜索和随机搜索。比较找到的最佳分数。用不同种子运行 10 次实验。随机搜索多少频率胜出？

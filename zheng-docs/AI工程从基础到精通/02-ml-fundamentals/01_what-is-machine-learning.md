@@ -392,6 +392,10 @@ print(f"准确率：{clf.score(X_test, y_test):.3f}")
 
 本课产出 `outputs/prompt-ml-problem-framer.md` —— 一个将模糊的业务问题转化为具体 ML 任务的提示词。给它一个问题描述（"我们想减少流失"或"预测下季度需求"），它会识别学习类型、定义预测目标、列出候选特征、选择成功指标、建立基线，并标记数据泄露或类别不平衡等陷阱。在任何 ML 项目开始时使用它，避免构建错误的东西。
 
+完整实现：`phases/02-ml-fundamentals/01-what-is-machine-learning/code/ml_intro.py`
+
+
+
 ## 关键术语
 
 | 术语 | 人们怎么说 | 实际含义 |

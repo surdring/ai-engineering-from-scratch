@@ -266,7 +266,7 @@ for train_idx, test_idx in tscv.split(X):
 
 本课产出：
 - `outputs/prompt-time-series-advisor.md` -- 时间序列问题框架提示词
-- `code/time_series.py` -- 滞后特征、前向验证、AR 模型、平稳性检查
+- `phases/02-ml-fundamentals/15-time-series/code/time_series.py` -- 滞后特征、前向验证、AR 模型、平稳性检查
 
 ### 你必须超越的基线
 

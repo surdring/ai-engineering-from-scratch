@@ -394,6 +394,8 @@ for alpha in alphas:
 
 本课产出：`outputs/prompt-model-diagnostics.md`
 
+完整实现：`phases/02-ml-fundamentals/10-bias-variance/code/bias_variance.py`
+
 ## 练习
 
 1. 使用已知函数生成数据。训练 1、3、5、7、9 和 15 次多项式。对每个计算偏差^2 和方差。画偏差^2、方差和总误差 vs 多项式次数的图。识别偏差和方差相交的点。

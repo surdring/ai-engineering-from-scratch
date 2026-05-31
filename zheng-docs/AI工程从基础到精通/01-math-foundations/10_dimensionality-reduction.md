@@ -102,7 +102,7 @@ UMAP（均匀流形近似与投影）类似 t-SNE 但更快且全局结构更好
 
 ## 构建它
 
-完整实现见 `code/dimensionality_reduction.py`，包含 PCA 从零实现、核 PCA 和可视化。
+完整实现见 `phases/01-math-foundations/10-dimensionality-reduction/code/dim_reduction.py`，包含 PCA 从零实现、核 PCA 和可视化。
 
 ## 关键术语
 

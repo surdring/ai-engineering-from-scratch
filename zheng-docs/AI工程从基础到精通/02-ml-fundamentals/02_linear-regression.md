@@ -514,7 +514,7 @@ X_train_scaled = scaler.fit_transform(X_train)
 ## Ship It
 
 本课产出：
-- `code/linear_regression.py` -- 从零实现的线性回归
+- `phases/02-ml-fundamentals/02-linear-regression/code/linear_regression.py` -- 从零实现的线性回归
 - `outputs/skill-linear-model-builder.md` -- 用于设计和诊断线性模型的技能参考
 
 ## 练习

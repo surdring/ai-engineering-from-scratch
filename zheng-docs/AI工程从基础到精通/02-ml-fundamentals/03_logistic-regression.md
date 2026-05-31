@@ -509,7 +509,7 @@ print(f"\n分类报告：\n{classification_report(y_te, y_pred)}")
 ## Ship It
 
 本课产出：
-- `code/logistic_regression.py` -- 从零实现的逻辑回归及指标
+- `phases/02-ml-fundamentals/03-logistic-regression/code/logistic_regression.py` -- 从零实现的逻辑回归及指标
 
 ## 练习
 

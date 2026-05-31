@@ -329,6 +329,10 @@ class GradientBoostingScratch:
 - `outputs/prompt-ensemble-selector.md` -- 一个帮助你为给定数据集选择正确集成方法的提示词
 - `outputs/skill-ensemble-builder.md` -- 完整的选择指南
 
+完整实现：`phases/02-ml-fundamentals/11-ensemble-methods/code/ensembles.py`
+
+
+
 ## 练习
 
 1. 修改 AdaBoost 实现，记录每轮后的训练准确率。绘制准确率与估计器数量的关系图。它何时收敛？

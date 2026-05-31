@@ -536,7 +536,7 @@ train_sizes, train_scores, val_scores = learning_curve(
 ## Ship It
 
 本课产出：
-- `code/evaluation.py` -- 所有评估工具和指标从零实现
+- `phases/02-ml-fundamentals/09-model-evaluation/code/evaluation.py` -- 所有评估工具和指标从零实现
 
 ## 练习
 

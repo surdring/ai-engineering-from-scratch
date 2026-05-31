@@ -501,6 +501,10 @@ gmm_model = GaussianMixture(n_components=3, random_state=42).fit(data)
 | 树状图 | "聚类的树" | 在层次聚类中显示聚类合并顺序和距离的树形图 |
 | 异常 | "离群点" | 不符合预期模式的数据点，被 DBSCAN 识别为噪声或被 GMM 识别为低概率 |
 
+完整实现：`phases/02-ml-fundamentals/07-unsupervised-learning/code/clustering.py`
+
+
+
 ## 延伸阅读
 
 - [Stanford CS229 - Unsupervised Learning](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) - Andrew Ng 关于聚类和 EM 的讲义

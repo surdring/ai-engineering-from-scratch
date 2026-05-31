@@ -451,6 +451,10 @@ print(f"簇 B：{group_b}")
 
 Fiedler 向量承担了主要工作。正值属于一个簇，负值属于另一个簇。无需迭代优化——只需一次特征分解。
 
+完整实现：`phases/01-math-foundations/21-graph-theory/code/graph_theory.py`
+
+
+
 ## Ship It
 
 本课产出：

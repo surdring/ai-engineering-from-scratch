@@ -446,6 +446,7 @@ print(f"KL 散度：  {np_kl_divergence(true, pred):.4f} 奈特")
 
 你从零构建了 `torch.nn.CrossEntropyLoss()` 的内部实现。现在你明白为什么训练中损失会下降了：模型的预测分布正在向真实分布靠拢，以"浪费的奈特"来衡量。
 
+完整实现 `phases/01-math-foundations/09-information-theory/code/information_theory.py`
 ## 练习
 
 1. 假设英文字母均匀分布（26 个字母），计算其熵。然后用实际字母频率估算熵。哪个更高？为什么？

@@ -351,6 +351,8 @@ print(f"特征重要性：{rf.feature_importances_}")
 
 本课产出 `outputs/prompt-tree-interpreter.md` —— 一个为业务相关方解释决策树分裂的提示词。输入训练好的树的结构（深度、特征、分裂阈值、准确率），它会将模型翻译为通俗语言规则、排序特征重要性、标记过拟合或泄露，并推荐下一步。任何时候你需要向不懂代码的人解释基于树的模型时使用它。
 
+完整实现：`phases/02-ml-fundamentals/04-decision-trees/code/trees.py`
+
 ## 练习
 
 1. 在具有 3 个类别的 2D 数据集上训练单个决策树。手动追踪分裂并画出矩形决策边界。比较 max_depth=2 和 max_depth=10 时的边界。

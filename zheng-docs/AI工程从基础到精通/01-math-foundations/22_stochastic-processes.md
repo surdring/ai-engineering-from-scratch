@@ -399,6 +399,10 @@ print(f"近似混合时间：{1/spectral_gap:.1f} 步")
 本课产出：
 - `outputs/prompt-stochastic-process-advisor.md` -- 帮助识别哪个随机过程框架适用于给定问题的提示词
 
+完整实现：`phases/01-math-foundations/22-stochastic-processes/code/stochastic.py`
+
+
+
 ## 关联
 
 | 概念 | 出现位置 |

@@ -152,8 +152,11 @@ uv config set index-url https://pypi.tuna.tsinghua.edu.cn/simple
 
 uv python install 3.12
 
-uv venv
-source .venv/bin/activate  # Windows 上使用 .venv\Scripts\activate
+uv venv .venv
+
+cd ~/github-projects/ai-engineering-from-scratch \
+&& \
+source .venv/bin/activate  # Windows 上使用 .venv\Scripts\activate \
 
 uv pip install numpy matplotlib jupyter
 ```

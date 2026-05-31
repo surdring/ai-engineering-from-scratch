@@ -508,3 +508,7 @@ if __name__ == "__main__":
     ]
 
     print(f"  总特征数：{len(feature_matrix[0])}")
+
+```
+
+完整实现：`phases/02-ml-fundamentals/08-feature-engineering/code/features.py`
